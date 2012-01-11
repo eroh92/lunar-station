@@ -64,11 +64,11 @@ family) on OSX system.
 * install Xcode if on OSX
 * run following in terminal:
 
-        $ curl -skL http://bit.ly/lunar-station | DEV_TYPE=rubydev bash
+        $ curl -skL http://bit.ly/eroh92-station | DEV_TYPE=rubydev bash
 
     or if curl is not installed but wget is:
 
-        $ wget -qO - http://bit.ly/lunar-station | DEV_TYPE=rubydev bash
+        $ wget -qO - http://bit.ly/eroh92-station | DEV_TYPE=rubydev bash
 
     or just manually download the bootstrap script and run it with bash:
 
