@@ -1,0 +1,3 @@
+[submodule "cookbooks/virtualbox-cookbook"]
+	path = cookbooks/virtualbox-cookbook
+	url = https://github.com/peplin/virtualbox-cookbook.git
